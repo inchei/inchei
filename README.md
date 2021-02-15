@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### THIS IS INCHEI CHAN
+<img src="https://github-readme-stats.vercel.app/api?username=inchei&show_icons=true">
 <!--
 **inchei/inchei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
