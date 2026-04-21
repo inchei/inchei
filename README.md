@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" src="https://p.sda1.dev/11/b6a82509c5a1014576ad5111433cdc2f/Mgf04-098.jpg" />
+  <img width="600" src="https://github.com/inchei/inchei/blob/main/Mgf04-098.jpg?raw=true" />
 </p>
 <hr>
 <p align="center">
