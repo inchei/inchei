@@ -4,6 +4,6 @@
 <hr>
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,css,pnpm,vscode" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,css,pnpm,vim,wsl" />
   </a>
 </p>
